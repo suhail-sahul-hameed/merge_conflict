@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-hello main
-=======
-hello feature
->>>>>>> feature
+
+hello nf
